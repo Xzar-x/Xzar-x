@@ -30,17 +30,12 @@ I am actively involved in the **Hack The Box** community and hold the **Hacker**
   [![HTB Profile](https://img.shields.io/badge/HackTheBox-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1148597)
   
 </div>
-<div align="center">
 ### 🎓 HTB Academy Progress
-</div>
-
 I am consistently working to master the curriculum at HTB Academy.
 
-<div align="center">
-  ![HTB Progress](https://img.shields.io/badge/HTB%20Modules-30%2F145-00BFFF?style=for-the-badge)
-</div>
+![HTB Progress](https://img.shields.io/badge/HTB%20Modules-30%2F145-00BFFF?style=for-the-badge)
 
-**30/145 Modules Completed**
+30/145 Modules Completed
 
 > *Security is not a product, but a process.*
 >
