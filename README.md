@@ -25,12 +25,14 @@ I actively develop projects on GitHub and share my findings and experiences on Y
 
 I am actively involved in the **Hack The Box** community and hold the **Hacker** rank.
 
-| Platform | Status |
-| :--- | :--- |
-| **Hack The Box (HTB)** | **Hacker** Rank 🏆 |
+<div align="center">
+  
+  [![HTB Profile](https://img.shields.io/badge/HackTheBox-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1148597)
+  
+</div>
 
 > *Security is not a product, but a process.*
-
+>
 ---
 
 ### 📊 GitHub Stats
