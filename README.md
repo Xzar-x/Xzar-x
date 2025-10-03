@@ -35,7 +35,7 @@ I am actively involved in the **Hack The Box** community and hold the **Hacker**
 I am consistently working to master the curriculum at HTB Academy.
 
 <div align="center">
-  <img src="https://progress-bar.dev/30/?title=Modules%20Completed&width=400&color=2ecc71" alt="Progress Bar 30/145" />
+  <img src="https://progress-bar.dev/30/?title=Modules%20Completed&width=400&color=00BFFF" alt="30/145 Modules Completed" />
 </div>
 
 **30/145 Modules Completed**
