@@ -41,7 +41,9 @@ I am consistently working to master the curriculum at HTB Academy.
 
 30/145 Modules Completed
 
-> *Security is not a product, but a process.*
+> *"Where others see a wall, I see a backdoor."
+
+*
 >
 ---
 
