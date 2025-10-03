@@ -33,7 +33,11 @@ I am actively involved in the **Hack The Box** community and hold the **Hacker**
 ### 🎓 HTB Academy Progress
 I am consistently working to master the curriculum at HTB Academy.
 
-![HTB Progress](https://img.shields.io/badge/HTB%20Modules-30%2F145%20(21%25)-00BFFF?style=for-the-badge)
+<div align="center">
+
+  ![HTB Progress](https://img.shields.io/badge/HTB%20Modules-30%2F145%20(21%25)-00BFFF?style=for-the-badge)
+
+</div>
 
 30/145 Modules Completed
 
