@@ -30,12 +30,16 @@ I am actively involved in the **Hack The Box** community and hold the **Hacker**
   [![HTB Profile](https://img.shields.io/badge/HackTheBox-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1148597)
   
 </div>
+<div align="center">
 ### 🎓 HTB Academy Progress
+</div>
 
 I am consistently working to master the curriculum at HTB Academy.
 
 <div align="center">
-  <img src="https://progress-bar.dev/30/?title=Modules%20Completed&width=400&color=00BFFF" alt="30/145 Modules Completed" />
+  <a href="https://github.com/Xzar-x/HTB-Academy-Badges">
+    <img src="https://progress-bar.dev/30/?title=Modules%20Completed&width=400&color=00BFFF" alt="30/145 Modules Completed" />
+  </a>
 </div>
 
 **30/145 Modules Completed**
