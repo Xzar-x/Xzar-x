@@ -13,14 +13,12 @@ My journey focuses on mastering ethical hacking techniques, penetration testing,
 
 I actively develop projects on GitHub and share my findings and experiences on YouTube.
 
-### 🔗 Connect with Me
-
-### 🌐 Connect with me
-
-🐙 [**GitHub**](https://github.com/Xzar-x)  
-🎥 [**YouTube**](https://youtube.com/@xzar206)  
-🧠 [**Hack The Box (Profile)**](https://app.hackthebox.com/profile/1148597)  
-🎯 [**Hack The Box (Referral)**](https://referral.hackthebox.com/mzy3zVi)
+| 🌐 Platform | 🔗 Link |
+| :--- | :--- |
+| 🐙 **GitHub** | [https://github.com/Xzar-x](https://github.com/Xzar-x) |
+| 🎥 **YouTube** | [https://youtube.com/@xzar206](https://youtube.com/@xzar206) |
+| 🧠 **Hack The Box (Profile)** | [https://app.hackthebox.com/profile/1148597](https://app.hackthebox.com/profile/1148597) |
+| 🎯 **Hack The Box (Referral)** | [https://referral.hackthebox.com/mzy3zVi](https://referral.hackthebox.com/mzy3zVi) |
 
 ---
 
