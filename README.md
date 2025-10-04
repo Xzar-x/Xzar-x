@@ -1,7 +1,7 @@
 <div align="center">
+![Logo Xzar](https://raw.githubusercontent.com/Xzar-x/images/main/logo.png)
   <h1>Hi there, I'm Xzar! 👋</h1>
 </div>
-![Tekst alternatywny](https://github.com/Xzar-x/images/blob/main/logo.png)
 
 ---
 
