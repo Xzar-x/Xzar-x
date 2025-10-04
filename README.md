@@ -1,4 +1,5 @@
 <div align="center">
+![Tekst alternatywny](https://github.com/Xzar-x/images/blob/main/logo.png)
   <h1>Hi there, I'm Xzar! 👋</h1>
 </div>
 
