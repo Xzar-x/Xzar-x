@@ -1,7 +1,5 @@
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/Xzar-x/images/main/logo.png" 
-       alt="Logo Xzar" 
-       style="width: 200px; max-width: 100%; border-radius: 10px;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Xzar-x/images/main/logo.png" alt="Logo Xzar" width="200">
   <h1>Hi there, I'm Xzar! 👋</h1>
 </div>
 
