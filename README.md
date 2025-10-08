@@ -13,8 +13,6 @@ My journey focuses on mastering ethical hacking techniques, penetration testing,
 
 I actively develop projects on GitHub and share my findings and experiences on YouTube.
 
-### 🔗 Connect with Me
-
 ### 🌐 Connect with me
 
 | 🌐 Platform | 🔗 Link |
