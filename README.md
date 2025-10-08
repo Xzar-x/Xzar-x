@@ -28,8 +28,7 @@ I actively develop projects on GitHub and share my findings and experiences on Y
 I am actively involved in the Hack The Box community and hold the **Hacker** rank.
 
 <div align="center">
-  <!-- Ranga HTB — kliknięcie przenosi do profilu -->
-  [![HTB Rank](https://img.shields.io/badge/HTB%20Rank-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1148597)
+![HTB Rank](https://img.shields.io/badge/HTB%20Rank-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
 
   <!-- Postęp modułów — tylko grafika -->
   ![HTB Modules](https://img.shields.io/badge/HTB%20Modules-30%2F145%20(21%25)-00BFFF?style=for-the-badge)
