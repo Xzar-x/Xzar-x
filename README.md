@@ -12,34 +12,30 @@ My journey focuses on mastering ethical hacking techniques, penetration testing,
 
 I actively develop projects on GitHub and share my findings and experiences on YouTube.
 
-🌐 Platform	🔗 Link
+### 🌐 Platformy & Linki
 
-🐙 GitHub	https://github.com/Xzar-x
-🎥 YouTube	https://youtube.com/@xzar206
-🧠 Hack The Box (Profile)	https://app.hackthebox.com/profile/1148597
-🎯 Hack The Box (Referral)	https://referral.hackthebox.com/mzy3zVi
-
-
+| 🌐 Platforma | 🔗 Link |
+| :---: | :--- |
+| 🐙 **GitHub** | [https://github.com/Xzar-x](https://github.com/Xzar-x) |
+| 🎥 **YouTube** | [https://youtube.com/@xzar206](https://youtube.com/@xzar206) |
+| 🧠 **Hack The Box (Profile)** | [https://app.hackthebox.com/profile/1148597](https://app.hackthebox.com/profile/1148597) |
+| 🎯 **Hack The Box (Referral)** | [https://referral.hackthebox.com/mzy3zVi](https://referral.hackthebox.com/mzy3zVi) |
 
 ---
 
-🛡️ Cybersecurity & Hacking
+### 🛡️ Cybersecurity & Hacking
 
-I am actively involved in the Hack The Box community and hold the Hacker rank.
+I am actively involved in the Hack The Box community and hold the **Hacker** rank.
 
-<div align="center">  
-
-</div>  
-### 🎓 HTB Academy Progress  
-I am consistently working to master the curriculum at HTB Academy.  <div align="center">  
-
-</div>  30/145 Modules Completed
+<div align="center">
+  <!-- HTB Rank badge -->
+  [![HTB Rank](https://img.shields.io/badge/HTB%20Rank-Hacker-blue?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1148597)
+  &nbsp;&nbsp;
+  <!-- HTB Modules progress badge -->
+  ![HTB Modules](https://img.shields.io/badge/HTB%20Modules-30%2F145%20(21%25)-00BFFF?style=for-the-badge)
+</div>
 
 > Where others see a wall, I see a backdoor.
-
-
-
-
 ---
 
 📊 GitHub Stats
