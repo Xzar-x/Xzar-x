@@ -17,10 +17,6 @@ I actively develop projects on GitHub and share my findings and experiences on Y
 
 ### 🌐 Connect with me
 
-🐙 [**GitHub**](https://github.com/Xzar-x)  
-🎥 [**YouTube**](https://youtube.com/@xzar206)  
-🧠 [**Hack The Box (Profile)**](https://app.hackthebox.com/profile/1148597)  
-🎯 [**Hack The Box (Referral)**](https://referral.hackthebox.com/mzy3zVi)
 | 🌐 Platform | 🔗 Link |
 | :--- | :--- |
 | 🐙 **GitHub** | [https://github.com/Xzar-x](https://github.com/Xzar-x) |
