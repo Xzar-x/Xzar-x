@@ -50,7 +50,7 @@ Progressing through the HTB Academy curriculum, one module at a time.
 
 <div align="center">
 
-  ![HTB Progress](https://img.shields.io/badge/HTB%20Modules-30%2F145%20(21%25)-00BFFF?style=for-the-badge)
+  ![HTB Progress](https://img.shields.io/badge/HTB%20Modules-38%2F186%20(21%25)-00BFFF?style=for-the-badge)
 
 </div>
 
